@@ -45,7 +45,3 @@ Once the GUI is open, you can input the required information and calculate the m
 ## Contributing
 
 Feel free to contribute to this project by submitting bug reports or feature requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
